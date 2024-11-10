@@ -7,4 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-luodaoyi/kms
+luodaoyi/kms-server
