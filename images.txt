@@ -8,3 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 luodaoyi/kms-server
+vaalacat/frp-panel
